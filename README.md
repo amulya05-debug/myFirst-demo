@@ -1,4 +1,4 @@
 # myFirst-demo
 This is my first Git Repository.
 <br>
-Author-Amulya S
+Author-Amulya S(me)
